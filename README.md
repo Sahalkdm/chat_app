@@ -1,5 +1,10 @@
-Sahal K
-IIT Madras
-Dual Degree - Data Science
+# Intern Application IBY SDE
 
-*System design document and setup document are inside the folder.
+## Author
+**Sahal K**
+- **Institution:** IIT Madras
+- **Program:** Dual Degree - Data Science
+
+## Documentation
+- **System Design Document:** Inside the folder
+- **Setup Document:** Inside the folder
